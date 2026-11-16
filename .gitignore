@@ -1,0 +1,10 @@
+# Puzzle inputs and examples: never commit (Advent of Code's author asks not to share them).
+input*.txt
+example*.txt
+
+.env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.DS_Store
